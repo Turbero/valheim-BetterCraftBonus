@@ -1,0 +1,9 @@
+{
+  "name": "BetterCraftBonus",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Turbero/valheim-BetterCraftBonus",
+  "description": "Duplicate the craft bonus instead of having a simple plus 1 or configure the parameters at your choice. For instance, we deserve 3x2 salads, not just 3+1!",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333"
+  ]
+}
