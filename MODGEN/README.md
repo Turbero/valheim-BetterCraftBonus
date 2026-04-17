@@ -12,6 +12,7 @@ This mod will change that rule:
 * If you use shift for multicrafting (x5 in vanilla), this will be multiplied by that multicrafting game amount.
   * Example: if you multicraft a saladx3 (x15) and get the bonus, you will receive 15x2=30 salads all times.
 * The bonus text will be updated accordingly, showing "x2" by default.
+* Server-sync capability included to force configuration to clients in servers
 
 IMPORTANT: If you run out of space in your inventory, the remaining bonus items that didn't fit will drop on the ground. Don't forget to collect them!
 
