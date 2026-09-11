@@ -55,7 +55,7 @@ namespace BetterCraftBonus
                     if (inventory.CanAddItem(craftRecipe.m_item.gameObject, 1))
                     {
                         //Add to inventory
-                        ItemDrop.ItemData crafted = inventory.AddItem(recipeName, 1, 1, craftVariant, playerId, playerName);
+                        ItemDrop.ItemData crafted = inventory.AddItem(recipeName, 1, 1, craftVariant, playerId, playerName, false);
                         Logger.Log("Extra item created: " + crafted);
                     }
                     else
