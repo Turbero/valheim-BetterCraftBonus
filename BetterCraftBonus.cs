@@ -8,7 +8,7 @@ namespace BetterCraftBonus
     {
         public const string GUID = "Turbero.BetterCraftBonus";
         public const string NAME = "Better Craft Bonus";
-        public const string VERSION = "1.0.0";
+        public const string VERSION = "1.0.2";
 
         private readonly Harmony harmony = new Harmony(GUID);
 
